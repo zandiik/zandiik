@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=zandiik&color=ff0000&label=Loyal-Segments)
+![](https://komarev.com/ghpvc/?username=zandiik&color=a2061f&label=Loyal-Segments)
 
 ill make this all pretty when i can be bothered 🩵
 
