@@ -2,6 +2,7 @@
 
 <img width="525" alt=image src=https://github.com/zandiik/zandiik/blob/2023e3102172d05efc19ebaaba2f21def7fab872/tumblr_bf4178e448749af04323689c6846ff63_3dde3d05_540.png />
 
+![](https://komarev.com/ghpvc/?username=zandiik&color=a2061f&label=Loyal-Segments)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmmidyg77bheqevj3vuj4kjzum&cover_image=true&theme=novatorem&show_offline=true&background_color=a2061f&interchange=true&profanity=false&bar_color=a2061f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmmidyg77bheqevj3vuj4kjzum&redirect=true)
 
