@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=zandiik&color=a2061f&label=Loyal-Segments)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmmidyg77bheqevj3vuj4kjzum&cover_image=true&theme=novatorem&show_offline=true&background_color=a2061f&interchange=true&profanity=false&bar_color=a2061f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmmidyg77bheqevj3vuj4kjzum&redirect=true)
+
 [新book](https://ildottores.atabook.org/) - [StrawPage](https://drzandiks.straw.page/)
 
 $\small{\textsf{Sign ATA for crow cuddles}}$
