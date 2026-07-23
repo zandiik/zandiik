@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=zandiik&color=a2061f&label=Loyal-Segments)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmmidyg77bheqevj3vuj4kjzum&cover_image=true&theme=novatorem&show_offline=true&background_color=a2061f&interchange=true&profanity=false&bar_color=a2061f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmmidyg77bheqevj3vuj4kjzum&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmmidyg77bheqevj3vuj4kjzum&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=c20000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 [新book](https://ildottores.atabook.org/) - [StrawPage](https://drzandiks.straw.page/)
 
