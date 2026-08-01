@@ -8,9 +8,9 @@
 
 [新book](https://ildottores.atabook.org/) - [StrawPage](https://drzandiks.straw.page/)
 
-$\small{\textsf{Sign ATA for crow cuddles}}$
+Sign ATA for crow cuddles
 
-$\small{\textsf{Featured on @title-town ,  @pt-hall-of-media as ponytown's Dottore}}$
+Featured on [@title-town](https://github.com/title-town) ,  [@pt-hall-of-media](https://github.com/pt-hall-of-media) as ponytown's Dottore
 
 <img height="400" alt=image src=https://github.com/zandiik/zandiik/blob/983c5fa83353ed8210bbedeaf81d251f71356649/tumblr_04f3651ede707273147de963251409ab_5fe89dbe_540.webp />
 
