@@ -10,7 +10,13 @@
 
 Sign ATA for crow cuddles
 
-Featured on [@title-town](https://github.com/title-town) ,  [@pt-hall-of-media](https://github.com/pt-hall-of-media) as ponytown's Dottore
+Featured on :
+
+[@title-town](https://github.com/title-town) as Dottore
+
+[@pt-hall-of-media](https://github.com/pt-hall-of-media) as Dottore and Dottore's #1 fan
+
+[@fans-town](https://github.com/fans-town) as Dottore's #1 fan
 
 <img height="400" alt=image src=https://github.com/zandiik/zandiik/blob/983c5fa83353ed8210bbedeaf81d251f71356649/tumblr_04f3651ede707273147de963251409ab_5fe89dbe_540.webp />
 
