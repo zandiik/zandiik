@@ -30,6 +30,7 @@ $\color{#1b98da}Featured\$ $\color{#4965a1}on\$ :
 [@pt-medals](https://github.com/pt-medals) 
 [@pt-fashion](https://github.com/pt-fashion)
 [@ponychievements](https://github.com/ponychievements)
+[@charactersofpt](https://github.com/charactersofpt)
 
 ---
 
