@@ -35,6 +35,7 @@ $\color{#1b98da}And\$ $\color{#4965a1}a\$ $\color{#4c66a2}thank\$ $\color{#644c8
 [@charactersofpt](https://github.com/charactersofpt)
 [@ponytowncosplayers](https://github.com/ponytowncosplayers)
 [@FOLKTOWN](https://github.com/FOLKTOWN)
+[@pt-walk-of-fame](https://github.com/pt-walk-of-fame)
 
 ---
 
