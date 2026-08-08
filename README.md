@@ -33,6 +33,8 @@ $\color{#1b98da}And\$ $\color{#4965a1}a\$ $\color{#4c66a2}thank\$ $\color{#644c8
 [@pt-fashion](https://github.com/pt-fashion)
 [@ponychievements](https://github.com/ponychievements)
 [@charactersofpt](https://github.com/charactersofpt)
+[@ponytowncosplayers](https://github.com/ponytowncosplayers)
+[@FOLKTOWN](https://github.com/FOLKTOWN)
 
 ---
 
