@@ -1,5 +1,4 @@
 <div align=center>
-<img width="1110" height="215" alt="image" src=https://github.com/zandiik/zandiik/blob/b56fe21aac5fca48e2d5314ce85d7335348ada17/Untitled16_20260804193925.webp />
 
 ![](https://komarev.com/ghpvc/?username=zandiik&color=7E050B&label=Loyal-Segments)
 
