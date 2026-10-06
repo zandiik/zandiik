@@ -17,8 +17,6 @@ $\color{#4965a1}my\$ $\color{#1b98da}hometown\$ $\color{#4965a1}did,\$ $\color{#
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vmmidyg77bheqevj3vuj4kjzum&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=7E050B&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<img width="650" height="650" alt="image" src=https://github.com/zandiik/zandiik/blob/b56fe21aac5fca48e2d5314ce85d7335348ada17/Untitled14_20260804171518.webp />
-
 $\color{#1b98da}Featured\$ $\color{#4965a1}on:\$
 
 $\color{#1b98da}And\$ $\color{#4965a1}a\$ $\color{#4c66a2}thank\$ $\color{#644c89}you\$ $\color{#6c4280}to :\$
